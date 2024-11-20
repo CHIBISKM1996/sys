@@ -1,1 +1,1 @@
-this is file2 of main2
+this is file2 of main
